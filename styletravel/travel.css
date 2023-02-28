@@ -39,6 +39,7 @@ pre{
     width: 230px;
     height: 200px;
     margin: 5px;
+    border-top:3px solid rgb(255, 182, 26) ;
     
 }
 .small_img{
